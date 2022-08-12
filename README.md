@@ -11,7 +11,10 @@ fxxk.py 파일을 통해 실행
 욕설을 사용시 날라오는 메시지
 ```
 -----------------
-Fxck you Fileter link
-```
+Fxck you Fileter 출처
 https://github.com/kairess/Rock-Paper-Scissors-Machine
-```
+
+MediaPipe Hands 출처
+https://google.github.io/mediapipe/solutions/hands#python-solution-api
+
+python 3.9.12 버전 사용
